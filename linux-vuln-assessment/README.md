@@ -1,3 +1,3 @@
 Basic Vulnerability Assessment using Nmap
 
-![Vulnerability Assessment](images/Vulnerability%20Assessment.jpg)
+![Vulnerability Assessment](Vulnerability%20Assessment.jpg)
