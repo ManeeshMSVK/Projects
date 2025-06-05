@@ -17,3 +17,5 @@ nmap 192.168.1.1
 nmap -sP 192.168.1.0/24
 nmap -p 1-65535 192.168.1.1
 nmap -sV 192.168.1.1
+
+![image](https://github.com/user-attachments/assets/067825bd-41ba-4021-b98e-a16afaf33016)
