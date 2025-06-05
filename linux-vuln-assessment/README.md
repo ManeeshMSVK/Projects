@@ -13,3 +13,7 @@ This project focuses on performing a basic vulnerability assessment on a simulat
 - Verified Nmap installation:
 ```bash
 nmap --version
+nmap 192.168.1.1
+nmap -sP 192.168.1.0/24
+nmap -p 1-65535 192.168.1.1
+nmap -sV 192.168.1.1
