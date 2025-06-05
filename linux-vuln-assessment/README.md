@@ -3,6 +3,8 @@
 ## 📄 Project Description
 This project focuses on performing a basic vulnerability assessment on a simulated Linux server using **Nmap**. The aim was to detect live hosts, open ports, and services running on a target system within a virtual lab environment.
 
+![image](https://github.com/user-attachments/assets/ddd5b241-a018-42e0-b8a9-70373b3dc662)
+
 ---
 
 ## 📊 Step-by-Step Process
@@ -17,5 +19,3 @@ nmap 192.168.1.1
 nmap -sP 192.168.1.0/24
 nmap -p 1-65535 192.168.1.1
 nmap -sV 192.168.1.1
-
-![image](https://github.com/user-attachments/assets/067825bd-41ba-4021-b98e-a16afaf33016)
