@@ -41,6 +41,3 @@ Decryption
         *) echo "Invalid choice. Please try again." ;;
         esac
     done
-### 🔓 Decryption Screenshot
-
-![Decryption](Decrypted%20Files/Decryption.jpg)
