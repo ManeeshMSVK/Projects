@@ -1,6 +1,7 @@
 # Projects
 
 Basic Vulnerability Assessment on Linux Systems - Used Nmap and Nessus to scan for open ports and vulnerabilities, recommending security patches and firewalls rules.
+
 ![Vulnerability Assessment](https://github.com/user-attachments/assets/830c8dbf-cea6-46ab-9c4f-67f6e82d9c39)
 
 Encryption:
