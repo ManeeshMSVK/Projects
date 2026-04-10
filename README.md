@@ -1,8 +1,5 @@
 # Projects
 
-Network Traffic Analysis using Wireshark - Analyzed packet captures to detect suspicious activities and potential vulnerabilities in simulated environments.
-![Network Traffic Analysis using Wireshark](https://github.com/user-attachments/assets/98926570-7379-41ff-a77b-24b03d58638f)
-
 Basic Vulnerability Assessment on Linux Systems - Used Nmap and Nessus to scan for open ports and vulnerabilities, recommending security patches and firewalls rules.
 ![Vulnerability Assessment](https://github.com/user-attachments/assets/830c8dbf-cea6-46ab-9c4f-67f6e82d9c39)
 
@@ -21,8 +18,14 @@ Ideal for students, developers, and system administrators, this lightweight util
 
 
 Wireshark Network Analysis
-DNS Analysis ![1](https://github.com/user-attachments/assets/8919cd2f-02ca-4245-82d4-ef72f6729f4a)
-Protocol Hierarchy Statistics ![2](https://github.com/user-attachments/assets/bd88a69d-d661-4039-b581-6abf43d13b59)
-TCP Conversations ![3](https://github.com/user-attachments/assets/9fad95ea-6380-49d2-bd85-8c6e98f5e9e0)
-HTTP Traffic ![4](https://github.com/user-attachments/assets/32ad2385-6b1c-4bb2-b95a-5e9dfd2d9717)
-TCP SYN Analysis (New Connections) ![5](https://github.com/user-attachments/assets/b1869737-00c2-488c-97bc-b6b87b34e580)
+
+DNS Analysis 
+![1](https://github.com/user-attachments/assets/8919cd2f-02ca-4245-82d4-ef72f6729f4a)
+Protocol Hierarchy Statistics 
+![2](https://github.com/user-attachments/assets/bd88a69d-d661-4039-b581-6abf43d13b59)
+TCP Conversations 
+![3](https://github.com/user-attachments/assets/9fad95ea-6380-49d2-bd85-8c6e98f5e9e0)
+HTTP Traffic 
+![4](https://github.com/user-attachments/assets/32ad2385-6b1c-4bb2-b95a-5e9dfd2d9717)
+TCP SYN Analysis (New Connections) 
+![5](https://github.com/user-attachments/assets/b1869737-00c2-488c-97bc-b6b87b34e580)
