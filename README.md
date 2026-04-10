@@ -17,3 +17,12 @@ This Bash script offers a simple, secure, and interactive command-line tool for 
 For encryption, the script prompts for a file path and password, then creates a securely encrypted output with a .enc extension. For decryption, it asks for the encrypted file and the password, then restores the original content to a new decrypted file. Error handling ensures that invalid file paths or incorrect passwords are managed gracefully.
 Ideal for students, developers, and system administrators, this lightweight utility provides a practical solution for securing sensitive files without the need for external applications. Its menu-based design makes it easy to use even for those with minimal scripting experience
 ![Decryption](https://github.com/user-attachments/assets/6636d82c-8864-4a65-af5b-d960d41f038f)
+
+
+
+Wireshark Network Analysis
+![1](https://github.com/user-attachments/assets/8919cd2f-02ca-4245-82d4-ef72f6729f4a)
+![2](https://github.com/user-attachments/assets/bd88a69d-d661-4039-b581-6abf43d13b59)
+![3](https://github.com/user-attachments/assets/9fad95ea-6380-49d2-bd85-8c6e98f5e9e0)
+![4](https://github.com/user-attachments/assets/32ad2385-6b1c-4bb2-b95a-5e9dfd2d9717)
+![5](https://github.com/user-attachments/assets/b1869737-00c2-488c-97bc-b6b87b34e580)
