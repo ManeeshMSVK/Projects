@@ -23,7 +23,6 @@ This project detects brute-force attacks by analyzing SSH authentication logs us
 
 <img width="1914" height="546" alt="image" src="https://github.com/user-attachments/assets/ff3c5a92-1ac1-4d59-a940-2beb4edd0890" />
 
-## 🔍 Queries Used
 
 ## 🔍 Queries Used
 
