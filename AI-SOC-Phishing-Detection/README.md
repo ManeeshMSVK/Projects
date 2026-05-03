@@ -47,3 +47,6 @@ A user receives a suspicious email claiming account suspension and requesting im
 
 ## 🎯 Conclusion
 This project demonstrates how AI tools can assist cybersecurity analysts in detecting phishing emails, analyzing threats, and improving security workflows.
+
+## 🔗 Project Link
+[Click here to view the full project](https://github.com/ManeeshMSVK/Projects/tree/main/AI-SOC-Phishing-Detection)
