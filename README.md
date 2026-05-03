@@ -30,7 +30,7 @@ Used Splunk SIEM to detect brute-force login attempts from authentication logs.
 ---
 
 ### 🌐 Wireshark Network Analysis  
-🔗 [View Project](wireshark-analysis)
+🔗 [View Project](wireshark-traffic-analysis)
 
 Analyzed packet-level traffic using Wireshark to identify DNS queries, TCP flows, and anomalies.
 
