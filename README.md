@@ -77,4 +77,4 @@ I am a Computer Science student focused on **Cybersecurity and AI-driven securit
 
 ## 🔗 Connect with Me
 
-GitHub: https://github.com/ManeeshMSVK
+GitHub: https://github.com/MSVKManeesh
