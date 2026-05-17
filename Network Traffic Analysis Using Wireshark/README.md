@@ -148,7 +148,7 @@ This analysis confirmed clean, legitimate traffic. In real SOC work, you need to
 | [3.jpeg](3.jpeg) | TCP Conversations — 238 streams mapped |
 | [4.jpeg](4.jpeg) | HTTP traffic inspection — Windows Update GET requests |
 | [5.jpeg](5.jpeg) | TCP SYN analysis — connection initiation patterns |
-| [Network_Traffic_Analysis_Report_MSVK_Maneesh.pdf](Network_Traffic_Analysis_Report_MSVK_Maneesh.pdf) | Full written analysis report |
+| [Network_Traffic_Analysis_Report.pdf](Network_Traffic_Analysis_Report.pdf) | Full written analysis report |
 
 ## 🏷️ Skills Demonstrated
 
