@@ -138,12 +138,6 @@ Developed a Bash-based file encryption and decryption tool using OpenSSL impleme
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSVKManeesh&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSVKManeesh&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 📜 Certifications
