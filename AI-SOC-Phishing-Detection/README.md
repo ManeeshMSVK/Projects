@@ -21,6 +21,27 @@ An end-to-end AI-augmented SOC workflow that detects phishing emails, extracts I
 | Output format | Structured incident report (IOCs, risk level, mitigation) |
 | MITRE mapping | T1566.001 — Spearphishing Attachment |
 
+## How to Use This Project
+
+This project does not require any installation. All AI analysis was performed using browser-based tools.
+
+### Step 1 — Open the prompt file
+Open `1_Prompt_Engineering.docx` to view the 3 prompt templates used for detection, incident reporting, and awareness content.
+
+### Step 2 — Test with your own email sample
+Copy any suspicious email text. Paste it into ChatGPT, Gemini, or Copilot using the prompts from Step 1. Compare the outputs.
+
+### Step 3 — Review the analysis outputs
+Open `2_AI_Analysis.docx` to see side-by-side comparison of ChatGPT, Gemini, and Copilot outputs for the test phishing email.
+
+### Step 4 — View the generated incident report
+Open `3_Incident_Report.docx` to see the final SOC-standard report generated from AI analysis.
+
+### Prerequisites
+- Access to ChatGPT (free tier works)
+- Access to Google Gemini (free)
+- Access to Microsoft Copilot (free via Edge browser)
+- No coding required
 
 ## 🧠 Tools Used
 - ChatGPT
