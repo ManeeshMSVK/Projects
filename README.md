@@ -138,8 +138,6 @@ Developed a Bash-based file encryption and decryption tool using OpenSSL impleme
 
 ---
 
----
-
 ## 📜 Certifications
 
 | Certificate | Issuer | Status |
